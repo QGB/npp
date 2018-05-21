@@ -1,6 +1,9 @@
 <NotepadPlus>
     <Session activeView="0">
-        <mainView activeIndex="0" />
+        <mainView activeIndex="0">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="712" startPos="474" endPos="474" selMode="0" lang="Registry" encoding="-1" filename="G:\QGB\npp\qgb\ContexMenu_Win10.reg" backupFilePath="G:\QGB\npp\backup\ContexMenu_Win10.reg@2018-05-21_182824" originalFileLastModifTimestamp="0" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="0" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="Registry" encoding="-1" filename="G:\QGB\npp\qgb\ContexMenu.reg" backupFilePath="" originalFileLastModifTimestamp="1526898476" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="1139802112" mapWrapIndentMode="-1" mapIsWrap="no" />
+        </mainView>
         <subView activeIndex="0" />
     </Session>
 </NotepadPlus>
