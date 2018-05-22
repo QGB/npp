@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="Windows-1252" ?>
 <NotepadPlus>
     <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="yes" searchMode="0" transparencyMode="1" transparency="150" dotMatchesNewline="no" isSearch2ButtonsMode="no">
+        <Path name="G:\QGB\npp\plugins\PythonScript\scripts" />
         <Path name="G:\QGB\notepad++" />
         <Path name="G:\QGB\notepad++0" />
         <Filter name="*.*" />
+        <Find name="editor" />
+        <Find name="pr" />
+        <Find name="draw" />
+        <Find name="rect=" />
         <Find name="41017" />
         <Find name="portable" />
         <Find name="HEAD" />
+        <Replace name="" />
         <Replace name="" />
         <Replace name="" />
     </FindHistory>
@@ -16,6 +22,11 @@
         <File filename="G:\QGB\notepad++0\config.xml" />
         <File filename="G:\QGB\npp\up.bat" />
         <File filename="G:\QGB\babun\cygwin\home\qgb\wshell\gpushForce.bat" />
+        <File filename="G:\QGB\babun\cygwin\home\qgb\wshell\py\ContexMenu.reg" />
+        <File filename="G:\TEST\ipy\2018-05-16__03.28.40__.096.py" />
+        <File filename="G:\QGB\npp\plugins\PythonScript\scripts\Samples\Python Regex Replacements.py" />
+        <File filename="G:\QGB\npp\plugins\PythonScript\scripts\Samples\Remove and Modify selected lines.py" />
+        <File filename="G:\QGB\npp\plugins\Config\MultiClipboardSession.dat" />
     </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="yes">standard</GUIConfig>
@@ -24,7 +35,7 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="0" y="0" width="1100" height="700" isMaximized="yes" />
+        <GUIConfig name="AppPosition" x="16" y="0" width="1100" height="700" isMaximized="yes" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20080426">no</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
@@ -58,17 +69,19 @@
         <GUIConfig name="searchEngine" searchEngineChoice="2" searchEngineCustom="" />
         <GUIConfig name="SmartHighLight" matchCase="no" wholeWordOnly="yes" useFindSettings="no" onAnotherView="no">yes</GUIConfig>
         <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" bookMarkMargin="show" indentGuideLine="show" folderMarkStyle="box" lineWrapMethod="aligned" currentLineHilitingShow="show" scrollBeyondLastLine="no" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="no" borderEdge="yes" edge="no" edgeNbColumn="80" zoom="0" zoom2="0" whiteSpaceShow="hide" eolShow="hide" borderWidth="2" smoothFont="no" />
-        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="200" topHeight="200" bottomHeight="200">
-            <FloatingWindow cont="4" x="1325" y="129" width="1544" height="685" />
-            <FloatingWindow cont="4" x="1325" y="129" width="1544" height="685" />
-            <PluginDlg pluginName="Notepad++::InternalFunction" id="42052" curr="4" prev="1" isVisible="yes" />
-            <PluginDlg pluginName="Notepad++::InternalFunction" id="44084" curr="4" prev="1" isVisible="yes" />
+        <GUIConfig name="DockingManager" leftWidth="200" rightWidth="200" topHeight="200" bottomHeight="427">
+            <FloatingWindow cont="4" x="1232" y="151" width="1546" height="750" />
+            <FloatingWindow cont="4" x="969" y="253" width="1283" height="852" />
+            <PluginDlg pluginName="MultiClipboard.dll" id="0" curr="4" prev="0" isVisible="no" />
+            <PluginDlg pluginName="Notepad++::InternalFunction" id="42052" curr="4" prev="1" isVisible="no" />
+            <PluginDlg pluginName="Python Script" id="-1" curr="3" prev="-1" isVisible="yes" />
+            <PluginDlg pluginName="Notepad++::InternalFunction" id="44084" curr="4" prev="1" isVisible="no" />
             <PluginDlg pluginName="dummy" id="0" curr="4" prev="3" isVisible="no" />
             <ActiveTabs cont="0" activeTab="-1" />
             <ActiveTabs cont="1" activeTab="-1" />
             <ActiveTabs cont="2" activeTab="-1" />
             <ActiveTabs cont="3" activeTab="-1" />
-            <ActiveTabs cont="4" activeTab="1" />
+            <ActiveTabs cont="4" activeTab="-1" />
         </GUIConfig>
     </GUIConfigs>
     <ProjectPanels>
