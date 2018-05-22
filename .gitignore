@@ -1,3 +1,4 @@
 *.py[co]
-config.xml
 backup/
+config.xml
+session.xml

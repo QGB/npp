@@ -15,18 +15,19 @@
         <Replace name="" />
         <Replace name="" />
         <Replace name="" />
+        <Replace name="" />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="G:\QGB\notepad++0\shortcuts.xml" />
-        <File filename="G:\QGB\notepad++\notepad++.exe" />
-        <File filename="G:\QGB\notepad++0\config.xml" />
-        <File filename="G:\QGB\npp\up.bat" />
-        <File filename="G:\QGB\babun\cygwin\home\qgb\wshell\gpushForce.bat" />
         <File filename="G:\QGB\babun\cygwin\home\qgb\wshell\py\ContexMenu.reg" />
         <File filename="G:\TEST\ipy\2018-05-16__03.28.40__.096.py" />
         <File filename="G:\QGB\npp\plugins\PythonScript\scripts\Samples\Python Regex Replacements.py" />
         <File filename="G:\QGB\npp\plugins\PythonScript\scripts\Samples\Remove and Modify selected lines.py" />
         <File filename="G:\QGB\npp\plugins\Config\MultiClipboardSession.dat" />
+        <File filename="G:\QGB\npp\plugins\Config\MultiClipboard.xml" />
+        <File filename="g:\qgb\babun\cygwin\home\qgb\wshell\ipy3.bat" />
+        <File filename="G:\QGB\babun\cygwin\home\qgb\github\Game_300Heros\.gitignore" />
+        <File filename="G:\pm\qgb\.gitignore" />
+        <File filename="G:\QGB\npp\plugins\PythonScript\scripts\Samples\Event Handler Demo.py" />
     </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="yes">standard</GUIConfig>
@@ -70,18 +71,18 @@
         <GUIConfig name="SmartHighLight" matchCase="no" wholeWordOnly="yes" useFindSettings="no" onAnotherView="no">yes</GUIConfig>
         <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" bookMarkMargin="show" indentGuideLine="show" folderMarkStyle="box" lineWrapMethod="aligned" currentLineHilitingShow="show" scrollBeyondLastLine="no" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="no" borderEdge="yes" edge="no" edgeNbColumn="80" zoom="0" zoom2="0" whiteSpaceShow="hide" eolShow="hide" borderWidth="2" smoothFont="no" />
         <GUIConfig name="DockingManager" leftWidth="200" rightWidth="200" topHeight="200" bottomHeight="427">
+            <FloatingWindow cont="4" x="1436" y="186" width="1750" height="785" />
             <FloatingWindow cont="4" x="1232" y="151" width="1546" height="750" />
-            <FloatingWindow cont="4" x="969" y="253" width="1283" height="852" />
-            <PluginDlg pluginName="MultiClipboard.dll" id="0" curr="4" prev="0" isVisible="no" />
+            <PluginDlg pluginName="MultiClipboard.dll" id="0" curr="4" prev="0" isVisible="yes" />
+            <PluginDlg pluginName="Notepad++::InternalFunction" id="44084" curr="4" prev="1" isVisible="yes" />
             <PluginDlg pluginName="Notepad++::InternalFunction" id="42052" curr="4" prev="1" isVisible="no" />
             <PluginDlg pluginName="Python Script" id="-1" curr="3" prev="-1" isVisible="yes" />
-            <PluginDlg pluginName="Notepad++::InternalFunction" id="44084" curr="4" prev="1" isVisible="no" />
             <PluginDlg pluginName="dummy" id="0" curr="4" prev="3" isVisible="no" />
             <ActiveTabs cont="0" activeTab="-1" />
             <ActiveTabs cont="1" activeTab="-1" />
             <ActiveTabs cont="2" activeTab="-1" />
             <ActiveTabs cont="3" activeTab="-1" />
-            <ActiveTabs cont="4" activeTab="-1" />
+            <ActiveTabs cont="4" activeTab="0" />
         </GUIConfig>
     </GUIConfigs>
     <ProjectPanels>
